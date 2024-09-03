@@ -1,0 +1,9 @@
+secret.key
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+passwords.json
+Thumbs.db
+ehthumbs.db
